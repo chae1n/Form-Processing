@@ -19,7 +19,7 @@ form.main-form legend{
 }
 
 form.main-form input:required{
-    border:1.25px solid rgb(255, 112, 212);
+    border:1.25px solid rgb(252, 115, 190);
 }
 
 form.main-form input[type="submit"]{
